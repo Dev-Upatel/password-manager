@@ -149,11 +149,4 @@ The Password Manager is a Python-based application designed to securely manage a
 - Implement a master password to protect access to the application.
 - Create a graphical user interface (GUI) for improved usability.
 
----
-
-## **Support**
-For assistance, please contact:
-- **Email:** codebot.aii@gmail.com
-- **GitHub Repository:** [https://github.com/Dev-Upatel/password-saver](https://github.com/Dev-Upatel/password-saver)
-- **GitHub Profile:** [https://github.com/Dev-Upatel/](https://github.com/Dev-Upatel/)
 
